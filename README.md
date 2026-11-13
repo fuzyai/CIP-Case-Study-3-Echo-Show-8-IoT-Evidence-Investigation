@@ -195,10 +195,10 @@ The case also demonstrated the importance of evidence integrity, timestamp valid
 
 This investigation was completed as part of the CIP-B106 Mobile and IoT Forensics course, Case Study 3 – Echo Show 8 IoT Evidence Investigation.
 
-**Author:** [Your name]
+**Author:** Fuseini Imoru Kantuogaa
 
-**Registration Number:** [Add only if appropriate for the repository's intended audience]
+**Registration Number:** C11/26/DFIT/17291 
 
 **Cohort:** Cohort 11
 
-**Submission Date:** [Insert confirmed submission date]
+**Submission Date:** 08 – 10 – 2026  
